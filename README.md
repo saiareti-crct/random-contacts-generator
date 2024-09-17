@@ -64,8 +64,6 @@ Format: vCard 3.0 with contact names and mobile numbers.
 ## 📜 Example Contact (vCard Format)
 Here’s how a contact will appear in the .vcf file:
 ```plaintext
-plaintext
-Copy code
 BEGIN:VCARD
 VERSION:3.0
 FN:Sai Areti

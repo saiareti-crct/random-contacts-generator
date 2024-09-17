@@ -57,7 +57,7 @@ def generate_vcf_file(filename, num_contacts):
             file.write(vcard)
 
 # Specify the number of contacts to generate
-num_contacts = 5463  # Change this value as per requirement
+num_contacts = 10  # Change this value as per requirement
 filename = 'random_indian_contacts.vcf'
 
 # Generate the VCF file
